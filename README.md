@@ -9,6 +9,10 @@
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
 Weapon Spawner is a template that spawns a weapon item for the player to equip.
