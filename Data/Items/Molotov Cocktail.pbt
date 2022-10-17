@@ -2,7 +2,7 @@ Assets {
   Id: 12016630636426120026
   Name: "Molotov Cocktail"
   PlatformAssetType: 33
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Molotov Cocktail"

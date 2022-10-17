@@ -2,7 +2,7 @@ Assets {
   Id: 2063650414057025085
   Name: "Pistol Silenced"
   PlatformAssetType: 33
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Pistol Silenced"

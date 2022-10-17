@@ -2,7 +2,7 @@ Assets {
   Id: 17087749563707052533
   Name: "Opaque Emissive - Orange"
   PlatformAssetType: 13
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   CustomMaterialAsset {
     BaseMaterialId: 12827530473249900764

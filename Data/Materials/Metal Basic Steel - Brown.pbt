@@ -2,7 +2,7 @@ Assets {
   Id: 14225698534951553503
   Name: "Metal Basic Steel - Brown"
   PlatformAssetType: 13
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   CustomMaterialAsset {
     BaseMaterialId: 14212988502358508072

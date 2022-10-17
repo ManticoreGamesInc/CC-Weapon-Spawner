@@ -2,7 +2,7 @@ Assets {
   Id: 16132369598607927719
   Name: "Shotgun"
   PlatformAssetType: 33
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Shotgun"

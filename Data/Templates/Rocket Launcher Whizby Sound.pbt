@@ -59,7 +59,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Weapon Spawner"
   VirtualFolderPath: "Weapons"
   VirtualFolderPath: "Projectile"
