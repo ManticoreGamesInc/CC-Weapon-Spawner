@@ -1,12 +1,12 @@
 --[[
- __          __                             _____                                      
- \ \        / /                            / ____|                                     
-  \ \  /\  / /__  __ _ _ __   ___  _ __   | (___  _ __   __ ___      ___ __   ___ _ __ 
+ __          __                             _____
+ \ \        / /                            / ____|
+  \ \  /\  / /__  __ _ _ __   ___  _ __   | (___  _ __   __ ___      ___ __   ___ _ __
    \ \/  \/ / _ \/ _` | '_ \ / _ \| '_ \   \___ \| '_ \ / _` \ \ /\ / / '_ \ / _ \ '__|
-    \  /\  /  __/ (_| | |_) | (_) | | | |  ____) | |_) | (_| |\ V  V /| | | |  __/ |   
-     \/  \/ \___|\__,_| .__/ \___/|_| |_| |_____/| .__/ \__,_| \_/\_/ |_| |_|\___|_|   
-                      | |                        | |                                   
-                      |_|                        |_|                                   
+    \  /\  /  __/ (_| | |_) | (_) | | | |  ____) | |_) | (_| |\ V  V /| | | |  __/ |
+     \/  \/ \___|\__,_| .__/ \___/|_| |_| |_____/| .__/ \__,_| \_/\_/ |_| |_|\___|_|
+                      | |                        | |
+                      |_|                        |_|
 
 Weapon Spawner is a template that spawns a weapon item for the player to equip.
 
@@ -15,6 +15,12 @@ The spawner can use a random or specific index from the data table.
 It will also respawn a new weapon once a player equips a weapon from the spawner.
 
 This template works with the Weapon Switcher template.
+
+====
+NOTE
+====
+
+If the Dependent folders are empty in Project Content under Imported Content for this component, save and reload the project to fix it.
 
 =====
 Setup
@@ -56,18 +62,24 @@ a weapon from the spawner.
 Creating a Weapon Item
 ======================
 
-1. Add a new networked weapon template to the Project Content.
+1. Create a new template for the weapon equipment.
 
-2. Find the Weapon Spawner items in the Project Content.
+2. In Project Content window, create a new item asset.
 
-3. Duplicate one of the items and rename to the new weapon name.
+3. Assign it a name and select the item asset to see its Properties.
 
-4. Select the new item and open the Properties window.
+4. Drag and drop the weapon equipment template into the Item Template property.
 
-5. Change the item's properties (Item Template, Slot, Icon, Ammo).
+5. Add 3 custom properties to the Item Asset.
 
-6. Open the Weapons Spawner Data data table and add a new row.
+--- 5a. Name: "Slot", Type: Int, The slot number that this weapon will occupy when equipped.
 
-7. Drag the new item into the new row.
+--- 5b. Name: "Icon", Type: Asset Reference, The 2d icon that will display on the UI
+
+--- 5c. Name: "Ammo", Type: Int, A reference for the amount of ammo which should equal the starting ammo amount.
+
+6. Right click the Ammo custom property, and select the Enable Dynamic Property option.
+
+7. Open the Weapons Spawner Data data table and drag the Item Asset into one of the rows.
 
 ]]--
