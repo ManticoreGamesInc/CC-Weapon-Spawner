@@ -22,6 +22,7 @@ Assets {
     }
   }
   SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   VirtualFolderPath: "Weapon"
 }

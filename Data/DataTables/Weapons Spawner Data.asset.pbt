@@ -3,6 +3,7 @@ Assets {
   Name: "Weapons Spawner Data"
   PlatformAssetType: 31
   SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   DataTableAsset {
   }

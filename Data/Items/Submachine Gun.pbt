@@ -3,6 +3,7 @@ Assets {
   Name: "Submachine Gun"
   PlatformAssetType: 33
   SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Submachine Gun"

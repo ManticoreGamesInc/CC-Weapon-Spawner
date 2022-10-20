@@ -3,6 +3,7 @@ Assets {
   Name: "Rocket Launcher"
   PlatformAssetType: 33
   SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Rocket Launcher"

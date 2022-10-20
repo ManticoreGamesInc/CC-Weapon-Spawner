@@ -76,7 +76,7 @@ Creating a Weapon Item
 
 --- 5b. Name: "Icon", Type: Asset Reference, The 2d icon that will display on the UI
 
---- 5c. Name: "Ammo", Type: Int, A reference for the amount of ammo which should equal the starting ammo amount.
+--- 5c. Name: "Ammo", Type: Int, A reference for the amount of ammo which should equal the starting ammo amount. Do not add if ammo is not required (sword for example).
 
 6. Right click the Ammo custom property, and select the Enable Dynamic Property option.
 

@@ -3,6 +3,7 @@ Assets {
   Name: "Molotov Cocktail"
   PlatformAssetType: 33
   SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
     CustomName: "Molotov Cocktail"
