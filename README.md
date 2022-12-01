@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/ManticoreGamesInc/CC-Weapon-Spawner/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Weapon-Spawner/actions/workflows/ci.yml?query=workflow%3ACI%29)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Weapon-Spawner?style=plastic)
 
-![Preview](/Screenshots/weaponspawner.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
