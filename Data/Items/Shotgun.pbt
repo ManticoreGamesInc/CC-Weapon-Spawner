@@ -2,7 +2,7 @@ Assets {
   Id: 16132369598607927719
   Name: "Shotgun"
   PlatformAssetType: 33
-  SerializationVersion: 119
+  SerializationVersion: 120
   DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {

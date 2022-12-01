@@ -2,7 +2,7 @@ Assets {
   Id: 17161985659481386944
   Name: "Pistol Black"
   PlatformAssetType: 33
-  SerializationVersion: 119
+  SerializationVersion: 120
   DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {

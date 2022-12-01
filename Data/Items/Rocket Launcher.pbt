@@ -2,7 +2,7 @@ Assets {
   Id: 1051383638874741586
   Name: "Rocket Launcher"
   PlatformAssetType: 33
-  SerializationVersion: 119
+  SerializationVersion: 120
   DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {

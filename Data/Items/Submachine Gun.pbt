@@ -2,7 +2,7 @@ Assets {
   Id: 17510912795377723965
   Name: "Submachine Gun"
   PlatformAssetType: 33
-  SerializationVersion: 119
+  SerializationVersion: 120
   DirectlyPublished: true
   VirtualFolderPath: "Weapon Spawner"
   ItemAsset {
